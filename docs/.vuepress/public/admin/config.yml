@@ -43,3 +43,9 @@ collections:
       - name: code
 label: Code
 widget: code
+
+- name: new file
+label: new file
+widget: file
+multiple: true
+
