@@ -36,16 +36,4 @@ collections:
         time_format: false
         required: true
       - {label: "Body", name: "body", widget: "markdown", default: "# Song title (Composer/ Artist)"}
-     - name: thumbnail
-      label: Featured Image
-      widget: image
-      multiple: true
-      - name: code
-label: Code
-widget: code
-
-- name: new file
-label: new file
-widget: file
-multiple: true
 
